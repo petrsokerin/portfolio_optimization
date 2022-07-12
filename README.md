@@ -26,7 +26,7 @@ The idea of the project is to compare different financial portfolios on real mar
 
 ## Results
 
-Markowits portfolio demonstrate the best results for Russian market.
+Markowits and Sharp portfolio demonstrate the best results as for Russian as for American market.
 
 ## Contacts
 
