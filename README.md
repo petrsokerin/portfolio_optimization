@@ -21,6 +21,7 @@ The idea of the project is to compare different financial portfolios on real mar
 | --- | --- |
 | data | the folder contains train and test datasets, contains information about stock prices |
 | utils | the folder contains scripts for portfolio optimization, metrics calculation and data analisys |
+| results | the folder contains xlsx files with metrics for different portfolios |
 | Port optimization universal.ipynb | jupyter notebook contains script for portfolio modelling and result estimation|
 
 ## Results
